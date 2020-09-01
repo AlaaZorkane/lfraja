@@ -1,0 +1,9 @@
+{
+  "name": "@lfraja/root",
+  "private": true,
+  "license": "MIT",
+  "author": "Alaa Zorkane <contact@alaazorkane.com>",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
